@@ -15,5 +15,3 @@ You can either do 1 of the following:
 
 ### Known Issues
 - When opening the unity project the incorrect scene may load, showing a blank scene. The correct scene is located in **Assets > PolygonSamurai > Scenes > Demo**
-
-

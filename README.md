@@ -1,30 +1,28 @@
 # Game Audio Project - Samurai Village
 
-## ToDo
+## To Do
 
 ### Sounds to record
 
-#### Foliage
-- Trees
-- Flowers
-- Bamboo
-
-#### Enviroment
-- Birds
-- Wind
-
-#### Other Objects
-- Fire
-- Water
-
-#### Character Sounds
-- Jibberish Speech (NPCs)
-- Footsteps
-
-#### UI Sounds
-- Clicking telescope sound for mini map zoom in and out
-- 
-
-  
-
-...
+| Category             | Audio To Record                              | Description                                                                     | User Interactivity                                                                     | Recorded | Implemented |
+| -------------------- | -------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------- | ----------- |
+| Distant Enviroment   | Sea                                          | As the game is on an island, the background sound of the sea etc                | Different ambient noises at certain areas of the map i.e. sea noises at edge of island | [ ]      | [ ]         |
+| Enviroment Sounds    | Wind                                         |                                                                                 | Louder when at higher altitudes                                                        | [ ]      | [ ]         |
+| Enviroment Sounds    | Water                                        | Running or still water                                                          | Proximity to the stream                                                                | [ ]      | [ ]         |
+| Ambient Sounds       | Unsettling SFX                               |                                                                                 | At specific events / times in the game or certain locations                            | [ ]      | [ ]         |
+| Enviroment / Foliage | Trees                                        | Background noise of trees / leaves and sound if the character walks into a tree |                                                                                        | [ ]      | [ ]         |
+| Enviroment / Foliage | Leaves                                       | Surface footstep sounds                                                         | User walking / running through                                                         | [ ]      | [ ]         |
+| Enviroment / Foliage | Bamboo                                       | Surface footstep sounds                                                         | User walking / running through                                                         | [ ]      | [ ]         |
+| Enviroment / Foliage | Plants                                       | Surface footstep sounds                                                         | User walking / running through                                                         | [ ]      | [ ]         |
+| Surfaces             | Water                                        | Surface footstep sounds                                                         | Shallow or deep water, running or walking splashing sounds                             | [ ]      | [ ]         |
+| Surfaces             | Grass                                        | Surface footstep sounds                                                         | User walking / running through                                                         | [ ]      | [ ]         |
+| Surfaces             | Rock                                         | Surface footstep sounds                                                         | User walking / running through                                                         | [ ]      | [ ]         |
+| Surfaces             | Path (Tiled)                                 | Surface footstep sounds                                                         | User walking / running through                                                         | [ ]      | [ ]         |
+| Surfaces             | Wooden Stairs                                | Surface footstep sounds                                                         | User walking / running through                                                         | [ ]      | [ ]         |
+| Surfaces             | Sand / Mud                                   | Footstep sounds with various moisture levels                                    | User walking / running through                                                         | [ ]      | [ ]         |
+| UI Sounds            | Telescope clicking                           | Telescope clicking in and out                                                   | When zooming in the mini map                                                           | [ ]      | [ ]         |
+| UI Sounds            | Swoosh noise                                 | Swoosh noise when dialogue or text boxes for hints pop up                       |                                                                                        | [ ]      | [ ]         |
+| Character Sounds     | Jumping ‘hugh’                               |                                                                                 | Jumping                                                                                | [ ]      | [ ]         |
+| Character Sounds     | Sprinting panting / deep breaths             |                                                                                 | Running / slows after running                                                          | [ ]      | [ ]         |
+| Character Sounds     | Idle character noises, grunts, and breathing |                                                                                 |                                                                                        | [ ]      | [ ]         |
+| Character sounds     | Sword swings or whooshes                     |                                                                                 |                                                                                        | [ ]      | [ ]         |

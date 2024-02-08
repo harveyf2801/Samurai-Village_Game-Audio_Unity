@@ -7,7 +7,7 @@
 #### Foliage
 - Trees
 - Flowers
-- 
+- Bamboo
 
 #### Enviroment
 - Birds
@@ -20,5 +20,11 @@
 #### Character Sounds
 - Jibberish Speech (NPCs)
 - Footsteps
+
+#### UI Sounds
+- Clicking telescope sound for mini map zoom in and out
+- 
+
+  
 
 ...

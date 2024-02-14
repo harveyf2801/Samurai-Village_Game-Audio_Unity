@@ -1,5 +1,7 @@
 # Game Audio Project - Samurai Village
 
+Our project.
+
 ## To Do
 
 ### Sounds to record

@@ -58,7 +58,27 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# ---- FMOD ----
+
+# Never ignore DLLs in the FMOD subfolder.
+!/Samurai-GameAudio/[Aa]ssets/Plugins/FMOD/**/lib/*
+
+# Don't ignore images and gizmos used by FMOD in the Unity Editor.
+!/Samurai-GameAudio/[Aa]ssets/Gizmos/FMOD/*
+!/Samurai-GameAudio/[Aa]ssets/Editor Default Resources/FMOD/*
+
+# Ignore the Cache folder since it is updated locally.
+/Samurai-GameAudio/[Aa]ssets/Plugins/FMOD/Cache/*
+
+# Ignore bank files in the StreamingAssets folder.
+/Samurai-GameAudio/[Aa]ssets/StreamingAssets/**/*.bank
+/Samurai-GameAudio/[Aa]ssets/StreamingAssets/**/*.bank.meta
+
+# If the source bank files are kept outside of the StreamingAssets folder then these can be ignored.
+# Log files can be ignored.
+fmod_editor.log
+
 # ----- macOS Garbage Files -----
 
-.DS_Store
+*.DS_Store
 

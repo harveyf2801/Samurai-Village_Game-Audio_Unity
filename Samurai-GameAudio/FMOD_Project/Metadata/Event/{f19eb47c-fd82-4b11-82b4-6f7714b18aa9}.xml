@@ -53,7 +53,7 @@
 			<destination>{d1de79fc-2a6d-41e2-a25b-8d72727ae53f}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{af9d027a-3a1f-49a8-a9ef-4cbe20673632}</destination>
+			<destination>{dd124d8d-1ccd-4871-a160-5024e3e3f116}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{006b1d68-ac3a-4111-afc7-ebd93f9e862a}" />
@@ -90,7 +90,10 @@
 	<object class="MixerBusPanner" id="{d1de79fc-2a6d-41e2-a25b-8d72727ae53f}" />
 	<object class="SingleSound" id="{e963e7aa-6a35-4054-a45f-dde08e687302}">
 		<property name="length">
-			<value>2.6409977324263036</value>
+			<value>0.97999999999999998</value>
+		</property>
+		<property name="timelockedOffset">
+			<value>0.29999999999999999</value>
 		</property>
 		<relationship name="modulators">
 			<destination>{08cc9939-fe95-4182-bc1c-52109a3d16eb}</destination>
@@ -125,7 +128,7 @@
 			<value>pitch</value>
 		</property>
 		<property name="amount">
-			<value>13</value>
+			<value>1.5</value>
 		</property>
 	</object>
 	<object class="MixerBusEffectChain" id="{a0a920ba-3289-448a-82d9-979d8ae2a83e}">

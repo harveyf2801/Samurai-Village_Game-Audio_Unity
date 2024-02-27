@@ -20,6 +20,7 @@ public class QuestLogic : MonoBehaviour
 
     public bool playerHasEnteredSwordTrigger;
     public bool playerHasSword;
+
     // Start is called before the first frame update
 
     void Start()
@@ -51,6 +52,9 @@ public class QuestLogic : MonoBehaviour
             playerHasSword = true;
             pickupUI.SetActive(false);
             pickupInventory.SetActive(true);
+            // Play sword sound
+            var emitter = GetComponent<FMODUnity.StudioEventEmitter>();
+            emitter.Play();
         }
 
     }

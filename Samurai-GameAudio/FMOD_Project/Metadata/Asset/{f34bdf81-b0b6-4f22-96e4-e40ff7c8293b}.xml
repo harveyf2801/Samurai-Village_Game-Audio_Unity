@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{f34bdf81-b0b6-4f22-96e4-e40ff7c8293b}">
+		<property name="assetPath">
+			<value>Metalic Thump/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7ccd7a00-e0dd-4b58-b37f-6a093233c4c9}</destination>
+		</relationship>
+	</object>
+</objects>

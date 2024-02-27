@@ -23,8 +23,6 @@ public class SwordPickup : MonoBehaviour
     {
         if(player.gameObject.tag == "Player"){
             playerCanPickupSword = false;
-            var emitter = GetComponent<FMODUnity.StudioEventEmitter>();
-            emitter.Play();
         }
     }
 }

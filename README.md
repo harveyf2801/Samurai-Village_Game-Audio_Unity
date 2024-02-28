@@ -6,7 +6,9 @@ Our project.
 
 ### Sounds to record
 
-Royalty Free Background Music from [Fesliyan Studios](https://www.fesliyanstudios.com/royalty-free-music/downloads-c/japanese-music/63)
+Royalty Free Sounds
+Music: [Fesliyan Studios](https://www.fesliyanstudios.com/royalty-free-music/downloads-c/japanese-music/63)
+Fire: [Fesliyan Studios](https://pixabay.com/sound-effects/search/fire/)
 
 | Category             | Audio To Record                              | Description                                                                     | User Interactivity                                                                     | Recorded | Implemented |
 | -------------------- | -------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------- | ----------- |

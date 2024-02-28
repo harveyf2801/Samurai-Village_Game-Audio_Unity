@@ -142,7 +142,6 @@
 		<property name="start">
 			<value>1</value>
 		</property>
-		<property name="name" />
 		<relationship name="sounds">
 			<destination>{da191285-3ce6-4022-8664-542288d8998b}</destination>
 			<destination>{33ca97de-c44a-421d-8f47-59aaa15258a8}</destination>
@@ -799,7 +798,7 @@
 			<value>0</value>
 		</property>
 		<property name="value">
-			<value>3.81469727e-06</value>
+			<value>0</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{bb228d45-65cf-4dc7-aa28-349d462ae0f8}">

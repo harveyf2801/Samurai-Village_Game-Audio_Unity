@@ -6,7 +6,7 @@ Our project.
 
 Music: [Fesliyan Studios](https://www.fesliyanstudios.com/royalty-free-music/downloads-c/japanese-music/63)
 
-Fire: [BBC Sounds]([https://pixabay.com/sound-effects/search/fire/](https://sound-effects.bbcrewind.co.uk/search?q=07025148))
+Fire: [BBC Sounds](https://sound-effects.bbcrewind.co.uk/search?q=07025148)
 
 ## To Do
 

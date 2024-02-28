@@ -20,7 +20,7 @@
 		</property>
 		<property name="enumerationLabels">
 			<value>Grass</value>
-			<value>Stone</value>
+			<value>Gravel</value>
 			<value>Path</value>
 			<value>Wood</value>
 			<value>Sand</value>

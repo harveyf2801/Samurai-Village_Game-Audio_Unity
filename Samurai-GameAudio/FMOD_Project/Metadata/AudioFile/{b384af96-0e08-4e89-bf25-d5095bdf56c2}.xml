@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b384af96-0e08-4e89-bf25-d5095bdf56c2}">
+		<property name="assetPath">
+			<value>Footsteps/PathRun/PathRun02.8.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.29165532879818595</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7ccd7a00-e0dd-4b58-b37f-6a093233c4c9}</destination>
+		</relationship>
+	</object>
+</objects>

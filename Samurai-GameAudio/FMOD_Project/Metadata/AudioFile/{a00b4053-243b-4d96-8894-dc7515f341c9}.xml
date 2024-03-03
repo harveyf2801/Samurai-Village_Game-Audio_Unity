@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a00b4053-243b-4d96-8894-dc7515f341c9}">
+		<property name="assetPath">
+			<value>Footsteps/SandCrawl/SandCrawl02.7.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.53333333333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7ccd7a00-e0dd-4b58-b37f-6a093233c4c9}</destination>
+		</relationship>
+	</object>
+</objects>

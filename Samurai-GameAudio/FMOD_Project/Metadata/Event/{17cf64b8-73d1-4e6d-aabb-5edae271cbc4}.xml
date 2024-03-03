@@ -50,6 +50,9 @@
 		</relationship>
 	</object>
 	<object class="MixerInput" id="{4621fef4-30bb-44e0-9dd3-42abef9c8c26}">
+		<relationship name="masters">
+			<destination>{d0272402-15d4-434a-97c6-a37ac8fe9838}</destination>
+		</relationship>
 		<relationship name="effectChain">
 			<destination>{04476df7-19df-43f0-b261-aaa652ed368c}</destination>
 		</relationship>
@@ -136,7 +139,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{77b821b4-4891-479b-ae74-7fe9eb7743c3}">
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Background Music</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{3588b87e-d94a-40b0-bfd9-da623126c298}</destination>
@@ -220,7 +223,7 @@
 			<value>1</value>
 		</property>
 		<property name="curveShape">
-			<value>0.25471893</value>
+			<value>0.303883463</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{3a3a37a4-7b61-4573-b2c0-91b6100b82be}">
@@ -239,7 +242,7 @@
 			<value>0</value>
 		</property>
 		<property name="curveShape">
-			<value>-0.2547189</value>
+			<value>-1.00000048</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{25ab1aad-db11-4f4d-b7a6-200d4f20480a}">

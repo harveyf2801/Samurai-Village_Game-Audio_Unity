@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{ddf76e75-8df8-4617-b922-34203f610e0b}">
+		<property name="name">
+			<value>RunCrawl</value>
+		</property>
+		<relationship name="folder">
+			<destination>{816b6f51-9356-4962-8283-2eb62b43c373}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3da995c2-b59f-4af8-ac53-d0fb8238be40}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3da995c2-b59f-4af8-ac53-d0fb8238be40}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Run</value>
+			<value>Crawl</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
